@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Pratikshya Saud</h1>
 <h3 align="center">"In love with the endless possibilities of web development."</h3>
 <img align="right" alt="coding" width="400"src="https://image.lexica.art/full_jpg/1adb00b2-907a-4583-ba96-77c35da13703">
@@ -9,7 +8,7 @@
 
 - 🔭 I’m currently working on **juggling side projects while building a better version of myself.**
 
-- 🌱 I’m currently learning **engaged in a journey of skill enhancement and knowledge acquisition.**
+- 🌱 I’m currently **engaged in a journey of skill enhancement and knowledge acquisition.**
 
 - 👯 I’m looking to collaborate on **be part of a prominent company's success story.**
 
@@ -30,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikshya890&show_icons=true&locale=en" alt="pratikshya890" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshya890&" alt="pratikshya890" /></p>
-
