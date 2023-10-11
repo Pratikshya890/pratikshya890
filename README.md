@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently **engaged in a journey of skill enhancement and knowledge acquisition.**
 
-- 👯 I’m looking to collaborate on **be part of a prominent company's success story.**
+- 👯 I’m looking to  **be part of a prominent company's success story.**
 
 - 🤝 I’m looking for help with **expert guidance and mentorship to advance my skills.**
 
